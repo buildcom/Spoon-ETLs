@@ -1,1 +1,0 @@
-c:\data-integration\kitchen.bat /file:"C:\spoon\kenshoo\j_Kenshoo_Import-NEW2.kjb" /level:Detailed >kenshooOUT.txt

@@ -1,1 +1,0 @@
-pageant.exe ldi_sftp_rsa.ppk -c AffirmSFTP

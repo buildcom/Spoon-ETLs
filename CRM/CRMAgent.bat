@@ -1,1 +1,0 @@
-C:\data-integration\pan.bat  /file:"CRMAgent_CRM_Upsert.ktr"

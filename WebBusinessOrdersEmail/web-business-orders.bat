@@ -1,1 +1,0 @@
-c:\data-integration\kitchen.bat /file:"C:\Spoon\WebBusinessOrdersEmail\WebBusinessOrder.kjb" /level:Detailed >spoonLog.txt

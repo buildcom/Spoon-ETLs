@@ -1,1 +1,0 @@
-C:\data-integration\kitchen.bat  /file:"C:\Spoon\DataWarehouseETLs\BackwardsArticleVIewPopulateAlt.kjb" /level:Detailed >outarticleview.txt

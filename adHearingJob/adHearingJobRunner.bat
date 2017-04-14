@@ -1,1 +1,0 @@
-c:\data-integration\kitchen.bat /file:"adHearingJob.kjb" /level:Detailed >spoonLog.txt

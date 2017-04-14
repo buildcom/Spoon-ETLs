@@ -1,1 +1,0 @@
-c:\data-integration\kitchen.bat /file:"C:\spoon\Facebook\DWH Facebook\j_DWH_Facebook_Import.kjb" /level:Detailed >kenshoo_campaign_OUT.txt

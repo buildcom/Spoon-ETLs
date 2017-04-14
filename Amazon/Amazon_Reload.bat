@@ -1,1 +1,0 @@
-c:\data-integration\kitchen.bat /file:"C:\Spoon\Amazon\j_Complete_Amazon_Import.kjb" /level:Detailed >Amazon_output.txt

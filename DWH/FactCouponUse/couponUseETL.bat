@@ -1,1 +1,0 @@
-C:\data-integration\kitchen.bat  /file:"FactCouponUseJob.kjb" "-param:DWH_DB=DataWarehouse" "-param:DWH_PORT=1433" "-param:DWH_HOST=Capella" /level:Detailed > couponUseETL.log

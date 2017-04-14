@@ -1,1 +1,0 @@
-C:\data-integration\pan.bat  /file:"ETL_DimTruckLine-Upsert.ktr"

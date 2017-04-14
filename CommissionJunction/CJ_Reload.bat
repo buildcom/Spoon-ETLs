@@ -1,1 +1,0 @@
-c:\data-integration\kitchen.bat /file:"C:\Spoon\CommissionJunction\j_CJ_Import.kjb" /level:Detailed >cj_output.txt

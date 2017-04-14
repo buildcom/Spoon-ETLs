@@ -1,1 +1,0 @@
-C:\data-integration\kitchen.bat  /file:"ActivateProductsFromList.kjb" /level:Detailed >activateProductsFromListOutput.txt

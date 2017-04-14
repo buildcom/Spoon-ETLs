@@ -1,1 +1,0 @@
-c:\data-integration\kitchen.bat /file:"C:\Spoon\Data Warehouse Reporting\Article Views Best Case\j_Article_Views_Best_Case.kjb" /level:Detailed >Article_Views.txt

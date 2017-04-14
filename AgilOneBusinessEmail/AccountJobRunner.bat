@@ -1,1 +1,0 @@
-c:\data-integration\kitchen.bat /file:"C:\Spoon\AgilOneBusinessEmail\AgilOneBusinessAccountJob.kjb" /level:Detailed >spoonLog.txt

@@ -1,1 +1,0 @@
-c:\data-integration\kitchen.bat /file:"C:\spoon\Aweber\AweberJob.kjb" /level:Detailed >AwebOUT.txt
